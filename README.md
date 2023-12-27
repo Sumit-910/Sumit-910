@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-910&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-910" /> </p>
 
-- 🌱 I’m currently learning **Firebase, Tailwind CSS**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React Js, Node Js, Express Js**
+- 💬 Ask me about **React Js, Node Js, Express Js, MongoDB**
 
 - 📫 How to reach me **thescar2021@gmail.com**
 
